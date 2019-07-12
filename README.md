@@ -7,6 +7,24 @@ XRmonitors public issue tracker
 
 The XRmonitors software adjusts the USB hub power configuration for you to try to reduce that sort of issue.  We have found that unplugging the HMD cable from the headset and replugging it 10 seconds later often resolves this issue.
 
+### Planned feature roadmap
+
+* Walkthrough training video for business use.
+* Track headset don time and report it in the UI.
+* Plugin architecture improved documentation and examples.
+* Auto-update banner in the application.
+* Add the application to the Microsoft app store.
+* Show protected screens (UAC) in VR.
+* Prototype logging into the computer in VR.
+* Fix fast-moving cursor stuck on old screen.
+* Prototype Windows VirtualDesktop feature integration.
+* Set Mip level 2 for 4K monitors and level 1 for Full HD monitors.
+* Prototype CMAA2 anti-aliasing approach.
+* Monitors that are similar physical sizes but different resolutions should look the same in VR.
+* Analytics track in-headset hours so we can report on the website.
+* Guided ergonomics exercises in HMD: https://www.youtube.com/watch?v=F8_ME4VwTiw
+* Prototype integration of some approaches for ergonomics from: http://mid.kaist.ac.kr/
+
 ### Other issues
 
 Please contact us through one of the options available below.
