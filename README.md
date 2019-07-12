@@ -27,6 +27,7 @@ The currently supported feature set:
 * Ergonomics feature to reduce blue light from the display, simulating blue light reducing filter glasses.
 * Optimized render paths for same-adapter and different-adapter using D3D11.
 * Virtual consoles that can be called up outside of the normal Windows desktop.  Switch between them using look-and-type rather than laborously clicking or using complex keystrokes.
+* Instant-on.  Starts rendering in roughly half a second of launching, thanks to the custom graphics engine written in C++.
 
 ### Planned feature roadmap
 
