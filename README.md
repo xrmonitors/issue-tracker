@@ -7,6 +7,14 @@ XRmonitors public issue tracker
 
 The XRmonitors software adjusts the USB hub power configuration for you to try to reduce that sort of issue.  We have found that unplugging the HMD cable from the headset and replugging it 10 seconds later often resolves this issue.
 
+### HP Reverb: Headset is too tight on face
+
+We suggest releasing the straps on the side of the HMD and adjusting just the top strap to avoid causing too much pressure on the forehead for longer use.
+
+### Text seems blurry
+
+Carefully reposition the headset left/right and up/down to try to find the position with the best clarity.  Use the WIN+ALT+Up shortcut to make the virtual monitors larger until text can be read comfortably.
+
 ### XRmonitors features
 
 The currently supported feature set:
