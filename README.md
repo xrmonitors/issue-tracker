@@ -26,6 +26,18 @@ The XRmonitors software adjusts the USB hub power configuration for you to try t
 * Prototype integration of some approaches for ergonomics from: http://mid.kaist.ac.kr/
 * Integrate a plugin for virtual browsers.
 
+### Collecting application logs
+
+To get more information about an issue:
+
+Logs from the installer are stored in `%ProgramData%/XRmonitors` under `XRmonitorsInstaller*.log`.
+
+Logs from the background service are stored in `%ProgramData%/XRmonitors` under `XRmonitorsService*.log`.
+
+Logs from the desktop UI are stored in `%LocalAppData%/XRmonitors` under `XRmonitorsUI*.log`.
+
+Logs from the VR application are stored in `%LocalAppData%/XRmonitors` under `XRmonitorsHologram*.log`.
+
 ### Other issues
 
 Please contact us through one of the options available below.
