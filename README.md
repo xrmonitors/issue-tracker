@@ -24,6 +24,7 @@ The XRmonitors software adjusts the USB hub power configuration for you to try t
 * Analytics track in-headset hours so we can report on the website.
 * Guided ergonomics exercises in HMD: https://www.youtube.com/watch?v=F8_ME4VwTiw
 * Prototype integration of some approaches for ergonomics from: http://mid.kaist.ac.kr/
+* Integrate a plugin for virtual browsers.
 
 ### Other issues
 
